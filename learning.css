@@ -1,0 +1,14 @@
+p{
+  color: green;
+}
+.another{
+  color:red;
+  display: inline-block;
+}
+
+#something{
+  position: fixed;
+  width: 400px;
+  top: 30px;
+}
+
